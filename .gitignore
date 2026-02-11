@@ -1,0 +1,14 @@
+# Build
+build/
+*.o
+*.exe
+*.app
+*.dSYM/
+
+# Archives
+*.zip
+archive/
+
+# macOS
+.DS_Store
+
